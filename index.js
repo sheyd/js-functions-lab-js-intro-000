@@ -1,1 +1,3 @@
-// write your code below!
+fucntion happyHolidays () {
+  return "Happy holidays!"
+}
